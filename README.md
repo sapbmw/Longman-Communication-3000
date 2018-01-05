@@ -15,7 +15,7 @@ http://d.testimg.com/d/en/Longman_Communication_3000.txt
 
 http://d.testimg.com/d/en/Longman_Communication_3000.xlsx
 
-# Refrence URL
+# Source
 Longman Communication 3000高频英语词汇
 http://sope.ruc.edu.cn/displaynews.php?id=930
 
