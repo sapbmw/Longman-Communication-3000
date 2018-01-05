@@ -15,4 +15,11 @@ http://d.testimg.com/d/en/Longman_Communication_3000.txt
 
 http://d.testimg.com/d/en/Longman_Communication_3000.xlsx
 
+# Refrence URL
+Longman Communication 3000高频英语词汇
+http://sope.ruc.edu.cn/displaynews.php?id=930
+
+PDF Download URL:
+http://sope.ruc.edu.cn/upfile/image/1385030167_1577.pdf
+
 ====== END ======
