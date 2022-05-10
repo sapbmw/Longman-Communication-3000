@@ -27,9 +27,8 @@ acid
 acknowledge 
 acquire 
 across 
-act 
-action 
-active 
+
+
 activist 
 
 adequate  
