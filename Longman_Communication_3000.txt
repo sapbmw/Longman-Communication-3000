@@ -3149,21 +3149,7 @@ wrap
 write 
 writer 
 writing 
-wrong 
-yard 
 yeah 
-year 
-yellow 
 yep  
-yes 
-yesterday 
-yet 
-you 
-young 
 youngster 
-your 
-yours 
-yourself 
-youth 
-zone
 === end ===
