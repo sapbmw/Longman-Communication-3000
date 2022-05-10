@@ -4,11 +4,11 @@ above
 abroad 
 absence   
 abuse 
-academic 
-accept 
-acceptable 
-access 
-accident 
+ 
+ 
+ 
+ 
+ 
 accommodation 
 accompany 
 according to 
@@ -26,10 +26,8 @@ admire
 admission 
 admit 
 adopt 
-adult 
 advance 
 advanced 
-advantage 
 advert 
 advertise 
 advertisement 
@@ -41,15 +39,14 @@ affair
 affect 
 afford 
 afraid 
-after 
-afternoon 
+ 
 afterwards 
 aged 
 agency 
 agent 
 aggressive 
-ago 
-agree 
+ 
+ 
 agreement 
 agriculture 
 ahead 
