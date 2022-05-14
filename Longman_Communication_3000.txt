@@ -13,7 +13,7 @@ activist
 adequate  
 administration 
 administrative 
-admire 
+ 
 admission 
 admit 
 adopt 
@@ -42,7 +42,7 @@ ahead
  
  
 aircraft 
-airline 
+ 
  
  
  
@@ -212,11 +212,11 @@ beforehand
  
 behalf 
 behave 
-behaviour 
+ 
  
  
 belief 
-believe 
+ 
 bell 
  
  
@@ -247,7 +247,7 @@ bitter
 black 
 blade 
 blame 
-blank 
+ 
 bless 
 blind 
  
@@ -286,7 +286,7 @@ bowl
 boyfriend 
  
  
-brave 
+ 
 bread 
  
  
@@ -301,14 +301,14 @@ bright
 brilliant 
  
 broad 
-brother 
+ 
 brown 
 brush 
 buck 
 bucket 
 buddy 
-budget 
-bug 
+ 
+ 
  
  
  
@@ -323,7 +323,7 @@ bury
  
 butcher 
 butter 
-button 
+ 
  
 buyer 
  
@@ -339,13 +339,13 @@ cabinet
  
 calm 
  
-camp 
+ 
 campaign 
  
 
  
  
-candidate 
+ 
 candle 
 candy 
 cap 
@@ -360,7 +360,7 @@ capture
  
  
  
-carpet 
+ 
 carrot 
 carry 
 cartoon 
@@ -368,9 +368,9 @@ case
 cash 
 cast 
 castle 
-cat 
-catalogue 
-catch 
+ 
+ 
+ 
  
 cause 
  
@@ -408,7 +408,7 @@ charity
 chart 
 chase 
  
-cheap 
+ 
 cheat 
  
 cheek 
@@ -439,11 +439,11 @@ circumstance
  
  
 claim 
-class 
-classic 
+ 
+ 
 classical 
-classroom 
-clean 
+ 
+ 
 cleaner 
  
  
@@ -527,7 +527,7 @@ confidence
 confident 
 confine 
  
-conflict 
+ 
 confused 
 confusing 
 confusion 
@@ -544,8 +544,8 @@ considerably
 consideration 
  
 consistent 
-constant 
-constantly 
+ 
+ 
 constitute 
 construct 
 construction 
@@ -564,7 +564,7 @@ contract
 contrast 
 contribute 
 contribution 
-control 
+ 
 convenient 
 convention 
 conventional 
